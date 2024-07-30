@@ -1,0 +1,2 @@
+# walkthroai
+learning fast ai
